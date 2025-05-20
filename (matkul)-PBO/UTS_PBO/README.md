@@ -1,0 +1,3 @@
+# List isi repository
+### 1. Untuk repo yang dikumpulkan adalah yang dengan format B_UTSPBO_3041 (Banyak errornya) :)
+### 2. Untuk Repository sisanya hanya repository untuk saya kerjakan karena penasaran :D...

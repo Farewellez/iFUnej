@@ -1,0 +1,7 @@
+D:\THR_PBO\F_Zafarell_3041\bin\Debug\F_Zafarell_3041.exe.config
+D:\THR_PBO\F_Zafarell_3041\bin\Debug\F_Zafarell_3041.exe
+D:\THR_PBO\F_Zafarell_3041\bin\Debug\F_Zafarell_3041.pdb
+D:\THR_PBO\F_Zafarell_3041\obj\Debug\F_Zafarell_3041.csproj.AssemblyReference.cache
+D:\THR_PBO\F_Zafarell_3041\obj\Debug\F_Zafarell_3041.csproj.CoreCompileInputs.cache
+D:\THR_PBO\F_Zafarell_3041\obj\Debug\F_Zafarell_3041.exe
+D:\THR_PBO\F_Zafarell_3041\obj\Debug\F_Zafarell_3041.pdb

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THR_PBO\\F_Zafarell_3041\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81613-E451-4A46-B983-8F720A773EB5}|F_Zafarell_3041.csproj|d:\\thr_pbo\\f_zafarell_3041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B81613-E451-4A46-B983-8F720A773EB5}|F_Zafarell_3041.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81613-E451-4A46-B983-8F720A773EB5}|F_Zafarell_3041.csproj|d:\\thr_pbo\\f_zafarell_3041\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{79B81613-E451-4A46-B983-8F720A773EB5}|F_Zafarell_3041.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81613-E451-4A46-B983-8F720A773EB5}|F_Zafarell_3041.csproj|d:\\thr_pbo\\f_zafarell_3041\\karyawan_tetap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B81613-E451-4A46-B983-8F720A773EB5}|F_Zafarell_3041.csproj|solutionrelative:karyawan_tetap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Karyawan_Tetap.cs",
+              "DocumentMoniker": "D:\\THR_PBO\\F_Zafarell_3041\\Karyawan_Tetap.cs",
+              "RelativeDocumentMoniker": "Karyawan_Tetap.cs",
+              "ToolTip": "D:\\THR_PBO\\F_Zafarell_3041\\Karyawan_Tetap.cs",
+              "RelativeToolTip": "Karyawan_Tetap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:58:37.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\THR_PBO\\F_Zafarell_3041\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "D:\\THR_PBO\\F_Zafarell_3041\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-04-11T06:12:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\THR_PBO\\F_Zafarell_3041\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\THR_PBO\\F_Zafarell_3041\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:09:11.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
